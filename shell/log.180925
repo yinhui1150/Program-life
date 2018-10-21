@@ -1,0 +1,7 @@
+total 16
+drwxrwxr-x 2 yh   yh   4096 9月  25 23:25 .
+drwxrwxr-x 4 yh   yh   4096 9月   1 11:06 ..
+-rwxr--r-- 2 yh   yh   2068 9月   1 00:08 hl_test.c
+-rw-r--r-- 1 root root    0 9月  25 23:25 log.180925
+lrwxrwxrwx 1 yh   yh      6 9月   1 00:09 sl_test.c -> test.c
+-rwxr--r-- 2 yh   yh   2068 9月   1 00:08 test.c
